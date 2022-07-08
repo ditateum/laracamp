@@ -17,7 +17,7 @@ class CampBenefitTableSeeder extends Seeder
        $campBenefits = [
            [
                'camp_id' => 1,
-               'name' => 'Pro Techstack Kit',
+               'name' => 'Pro Tech-stack Kit',
            ],
            [
                'camp_id' => 1,
@@ -37,7 +37,7 @@ class CampBenefitTableSeeder extends Seeder
            ],
            [
                'camp_id' => 1,
-               'name' => 'Future Job Opportinity',
+               'name' => 'Future Job Opportunity',
            ],
            [
                'camp_id' => 1,
@@ -58,6 +58,10 @@ class CampBenefitTableSeeder extends Seeder
            [
                'camp_id' => 2,
                'name' => 'Offline Course Videos',
+           ],
+           [
+               'camp_id' => 2,
+               'name' => 'Future Job Opportunity',
            ],
        ];
 
